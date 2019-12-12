@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>bankmelli</name>
+	<displayName><![CDATA[Melli Payment]]></displayName>
+	<version><![CDATA[1.1]]></version>
+	<description><![CDATA[A free module to pay online for Melli.]]></description>
+	<author><![CDATA[AlmaaTech]]></author>
+	<tab><![CDATA[payments_gateways]]></tab>
+	<confirmUninstall><![CDATA[برای حذف جزئیات مطمئن هستید؟]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
